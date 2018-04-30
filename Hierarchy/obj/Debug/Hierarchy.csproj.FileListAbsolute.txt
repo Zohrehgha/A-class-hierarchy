@@ -1,0 +1,10 @@
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csprojResolveAssemblyReference.cache
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.Properties.Resources.resources
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csproj.GenerateResource.Cache
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csproj.CoreCompileInputs.cache
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\bin\Debug\Hierarchy.exe.config
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\bin\Debug\Hierarchy.exe
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\bin\Debug\Hierarchy.pdb
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.exe
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.pdb
+C:\ITD\Term 3\C#\assignment\Midterm\Hierarchy\Hierarchy\obj\Debug\Hierarchy.Form1.resources
